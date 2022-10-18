@@ -1,0 +1,5 @@
+Mario,89,1289.22
+Josue,11,589.24
+Alicia,48,829.28
+Alejandra,39,239.18
+Carlos,17,825.33
